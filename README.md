@@ -41,12 +41,12 @@ $ npm start
 
 # Open your browser and go to:
 http://localhost:3000
-
-
+```
 
 ## Key Features
 
 ### **Motivação Section**
+
 - Displays "Before" and "After" images of progress using responsive layouts.
 - Images are grouped dynamically for better presentation.
 - Stored in `public/media/images`.
@@ -54,18 +54,21 @@ http://localhost:3000
 ---
 
 ### **Sobre o jogo**
+
 - Provides details about the game phases.
 - Features video previews of the game stages.
 
 ---
 
 ### **Galeria VIP**
+
 - Includes details about the developer's Instagram account.
 - Videos stored in `public/media/videos`.
 
 ---
 
 ### **Contato Section**
+
 - Lists developer contact information, including:
   - **Email**
   - **LinkedIn**
@@ -93,6 +96,3 @@ Feel free to contribute to this project by submitting pull requests. Please ensu
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-```
