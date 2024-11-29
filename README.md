@@ -87,6 +87,22 @@ http://localhost:3000
 
 ---
 
+---
+
+## 🎥 Game Presentation
+
+Watch the full presentation of **My 600lb Escape** where I showcase the game's development process, features, and inspiration:
+
+<p align="center">
+  <a href="https://youtu.be/q9BRSRCbgeQ" target="_blank">
+    <img src="https://img.youtube.com/vi/q9BRSRCbgeQ/0.jpg" alt="Game Presentation Video" width="400">
+  </a>
+</p>
+
+[Watch the Full Presentation](https://youtu.be/q9BRSRCbgeQ)
+
+---
+
 ## Contribution
 
 Feel free to contribute to this project by submitting pull requests. Please ensure your changes are well-tested and documented.
