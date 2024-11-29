@@ -87,8 +87,6 @@ http://localhost:3000
 
 ---
 
----
-
 ## 🎥 Game Presentation
 
 Watch the full presentation of **My 600lb Escape** where I showcase the game's development process, features, and inspiration:
